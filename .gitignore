@@ -1,0 +1,23 @@
+#stm32 project files
+.cproject
+.project
+
+debug/launch files
+*.launch
+
+#runtime binaries/build outputs
+*.o
+*.elf
+*.bin
+*.map
+syscalls.c
+sysmem.c
+
+#project settings
+.settings/
+
+#build folders
+Debug/
+
+#system startup files
+Startup/
